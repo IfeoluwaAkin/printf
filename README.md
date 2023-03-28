@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### _printf
 
 Hello, welcome to our first group project, we're replicated the printf() fucntion from the C Standard Library.
@@ -86,3 +87,6 @@ git clone https://github.com/IfeoluwaAkin/printf
 
 "c:\Users\Connected Dot\Pictures\36473098.jpeg""c:\Users\Connected Dot\Pictures\80818120.jpeg"
 Created by [Theophilus Samuel](https://github.com/ConnectedDot) & [Ife Akinyunni](https://github.com/IfeoluwaAkin).
+=======
+it is going to be a fun c
+>>>>>>> 8a4c8d83fbf00bbfb96754cc6b7290f5c565b0ad
